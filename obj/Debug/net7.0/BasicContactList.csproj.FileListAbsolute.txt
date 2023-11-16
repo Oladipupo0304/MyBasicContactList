@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\bin\Debug\net7.0\BasicContactList.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\bin\Debug\net7.0\BasicContactList.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\bin\Debug\net7.0\BasicContactList.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\bin\Debug\net7.0\BasicContactList.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\bin\Debug\net7.0\BasicContactList.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\refint\BasicContactList.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\BasicContactList.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\BasicContactList\obj\Debug\net7.0\ref\BasicContactList.dll
